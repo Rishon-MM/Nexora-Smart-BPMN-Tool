@@ -9,7 +9,7 @@ Nexora Smart BPMN is a modern, AI-powered Business Process Model and Notation (B
 - **Secure Authentication**: Built-in user authentication (Google / Email) to keep business workflows secure and private.
 - **Demo Mode**: Includes a `VITE_DEMO_MODE` flag so developers can test and view the UI instantly with mock data, without needing to set up a backend database!
 
-![Workspace](assets/Nexora.png)
+![Workspace](assets\Nexora.png)
 
 ---
 
