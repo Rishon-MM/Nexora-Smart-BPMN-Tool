@@ -2,14 +2,14 @@
 
 Nexora Smart BPMN is a modern, AI-powered Business Process Model and Notation (BPMN) editor. Built with React and integrated with Firebase and OpenAI, it allows users to effortlessly map out, manage, and optimize complex business processes.
 
+![Nexora](assets/Nexora.png)
+
 ## ✨ Features
 - **Interactive BPMN Editor**: Visually construct and edit business processes using an intuitive drag-and-drop interface.
 - **AI-Powered Assistance**: Integrated with OpenAI to provide intelligent suggestions and optimizations for your business workflows.
 - **Real-Time Database**: Powered by Firebase Firestore for saving and retrieving process diagrams seamlessly.
 - **Secure Authentication**: Built-in user authentication (Google / Email) to keep business workflows secure and private.
 - **Demo Mode**: Includes a `VITE_DEMO_MODE` flag so developers can test and view the UI instantly with mock data, without needing to set up a backend database!
-
-![Workspace](assets\Nexora.png)
 
 ---
 
